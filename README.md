@@ -1,5 +1,4 @@
-<h2 align="center">Hi everyone, welcome to my profile!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"></h2>
-
+<h3 align="center">Hi everyone, welcome to my profile!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"></h3>
 <h1 align="center">Gaurav Prajapati here.</h1>
 <br>
 
