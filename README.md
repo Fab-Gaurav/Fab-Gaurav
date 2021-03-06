@@ -45,10 +45,11 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Fab-Gaurav alt=Fab-Gaurav/></p>
 
-![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=Fab-Gaurav&hide=issues&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fab-Gaurav&show_icons=true&locale=en&layout=compact" alt="Fab-Gaurav" />
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fab-Gaurav&" alt="Fab-Gaurav" />&nbsp;&nbsp;
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Fab-Gaurav&show_icons=true&locale=en&layout=compact" alt="Fab-Gaurav" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fab-Gaurav&" alt="Fab-Gaurav" />&nbsp;&nbsp;</p>
+
+![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=Fab-Gaurav&hide=issues&show_icons=true&theme=radical)
 
 ![Gaurav's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fab-Gaurav)
 
@@ -67,5 +68,5 @@
 - 💬 Ask me about anything, I am happy to help anytime!
 - Open Source enthusiast
 
-### Meanwhile have a look to my reposetories and show some :heart: by :star: them :point_down:
+### Meanwhile have a look to my repositories :point_down: and show some :heart: by :star: them :grinning:
 ### Have a good day!
