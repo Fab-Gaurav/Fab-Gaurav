@@ -53,7 +53,7 @@
 
 <br>
 
-### Connect with me here:  
+## Connect with me here:  
 <p align="left">
 <a href="https://www.linkedin.com/in/gaurav-prajapati-22a8961b6/">
   <img align="left" alt="Gaurav Prajapati | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" /> </a>
