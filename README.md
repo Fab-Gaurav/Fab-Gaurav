@@ -51,8 +51,6 @@
 
 ![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=Fab-Gaurav&hide=issues&show_icons=true&theme=radical)
 
-![Gaurav's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fab-Gaurav)
-
 <br>
 
 ### Connect with me here:  
