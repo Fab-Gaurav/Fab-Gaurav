@@ -2,8 +2,6 @@
 <h1 align="center">Gaurav Prajapati here.</h1>
 <br>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=Fab-Gaurav alt=Fab-Gaurav/></p>
-
 ### I'm Sophomore, and a ML enthusiast! from [India](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source and Web Dev. 🎯
 
 - 🔭 I’m currently working on developing my skills
