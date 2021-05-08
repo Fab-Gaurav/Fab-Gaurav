@@ -35,7 +35,7 @@
 
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fab-Gaurav&" alt="Fab-Gaurav" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fab-Gaurav&show_icons=true&locale=en&layout=compact" alt="Fab-Gaurav" />&nbsp;&nbsp;</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fab-Gaurav&show_icons=true&locale=en&layout=compact" alt="Fab-Gaurav" />&nbsp;&nbsp; </p>
 <br>
 
 ## Connect with me here:  
