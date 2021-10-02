@@ -2,14 +2,14 @@
 <h1 align="center">Gaurav Prajapati here.</h1>
 <br>
 
-### I'm Sophomore, and a ML enthusiast! from [India](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source and Web Dev. 🎯
-
+<!--### I'm Sophomore, and a ML enthusiast! from [India](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source and Web Dev. 🎯
+-->
 - 🔭 I’m currently working on developing my skills
-- 🌱 I’m currently learning MERN stack followed with CP & Python
+- 🌱 I’m currently learning MERN <!-- stack followed with CP & Python-->
 - 👯 I’m looking to collaborate on CP and Open Source Projects
-- 🤔 I’m looking for help with MERN
 - 📫 Reach me: [gaurav2000.rbt@gmail.com](mailto:gaurav2000.rbt@gmail.com)
 - 😄 Pronouns: He/His
+<!-- 🤔 I’m looking for help with MERN-->
 
 <br>
 
@@ -37,7 +37,7 @@
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fab-Gaurav&" alt="Fab-Gaurav" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fab-Gaurav&show_icons=true&locale=en&layout=compact" alt="Fab-Gaurav" />&nbsp;&nbsp; </p>
 <br>
---->
+
 ## Connect with me here:  
 <p align="left">
 <a href="https://www.linkedin.com/in/gaurav-prajapati-22a8961b6/">
@@ -51,4 +51,5 @@
 - 💬 Ask me about anything, I am happy to help anytime!
 
 ### Meanwhile have a look to my repositories :point_down: and show some :heart: by :star: them :grinning:
-### Have a good day!
+--->
+### Have a good day!:heart:
